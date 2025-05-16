@@ -5,7 +5,11 @@
 
 <!-- Image Section (Replace link with actual GitHub-hosted image link) -->
 <p align="center">
-  <img src="https://github.com/Tahscene/TrendR/blob/main/assets/screenshot.png?raw=true" alt="TrendR Screenshot" width="300">
+  <img src="https://github.com/Tahscene/TrendR/blob/master/Screenshot%202025-05-16%20221755.png?raw=true" alt="TrendR Screenshot" width="300">
+   <img src="https://github.com/Tahscene/TrendR/blob/master/Screenshot%202025-05-16%20221811.png?raw=true" alt="TrendR Screenshot" width="300">
+   <img src="https://github.com/Tahscene/TrendR/blob/master/Screenshot%202025-05-16%20221820.png?raw=true" alt="TrendR Screenshot" width="300">
+   <img src="https://github.com/Tahscene/TrendR/blob/master/Screenshot%202025-05-16%20221830.png?raw=true" alt="TrendR Screenshot" width="300">
+   <img src="https://github.com/Tahscene/TrendR/blob/master/Screenshot%202025-05-16%20221845.png?raw=true" alt="TrendR Screenshot" width="300">
 </p>
 
 <h2>📄 Project Overview</h2>
